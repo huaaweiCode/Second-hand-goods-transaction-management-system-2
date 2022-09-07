@@ -1,10 +1,5 @@
 # 二手物品交易管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**二手2**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -70,11 +65,4 @@
 
 ![用户-站内消息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208041352122.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**二手2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
